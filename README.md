@@ -13,5 +13,4 @@ Um pacote simples de processamento de imagens em Python, que oferece funções b
 1. Clone o repositório do projeto:
 
    ```bash
-   [git clone https://github.com/seu-usuario/image_processing.git
-   cd image_processing](https://github.com/AdrianKoll/image_processing/blob/main/README.md)
+   https://github.com/AdrianKoll/image_processing/blob/main/README.md
