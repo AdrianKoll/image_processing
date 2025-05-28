@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: image_processing
+Version: 0.1
+Summary: Pacote de processamento de imagens com Python
+Author: Seu Nome
+Author-email: seu.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: Pillow>=9.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary
